@@ -1,3 +1,4 @@
+# To use this interactively: `brew install just` / `choco install just` / https://just.systems
 set windows-shell := ["pwsh", "-NoLogo", "-Command"]
 
 marp-version := "latest"
