@@ -12,4 +12,4 @@ present:
   npx @marp-team/marp-cli@{{marp-version}} -s .
 
 make-pdf markdown-file pdf-file:
-  npx @marp-team/marp-cli@{{marp-version}} "{{markdown-file}}" -o "{{pdf-file}}"
+  npx @marp-team/marp-cli@{{marp-version}} "{{markdown-file}}" -o "{{pdf-file}}" --allow-local-files
