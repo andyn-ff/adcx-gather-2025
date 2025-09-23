@@ -8,6 +8,10 @@ class:
 ---
 # Hello!
 
+Andy Normington
+Embedded Software + Developer Tooling
+Focusrite
+
 ---
 # What's the big idea?
 
@@ -59,13 +63,13 @@ Who cares about my unpolished work?
 
 ---
 
-![bg 90%](https://miro.medium.com/v2/resize:fit:408/1*vb37xDKUHtvoSGHRIOGe_A.png)
-![bg 90%](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KOVbr0RTE7l60rft2dyclg.png)
+![bg 95%](https://miro.medium.com/v2/1*vb37xDKUHtvoSGHRIOGe_A.png)
+![bg 88%](https://miro.medium.com/v2/format:webp/1*KOVbr0RTE7l60rft2dyclg.png)
 
 ---
 # I'll look stupid!
 
-![bg right 100%](https://miro.medium.com/v2/resize:fit:700/1*SZnb1QJKZe_A_NCnUl8AIA.png)
+![bg right:60% 100%](https://miro.medium.com/v2/1*SZnb1QJKZe_A_NCnUl8AIA.png)
 xkcd.com/1053/
 
 ---
@@ -75,9 +79,11 @@ xkcd.com/1053/
 <!-- Image credit: Arthur Brognoli -->
 
 ---
-# Techniques you might want to try
 
 ---
+# Techniques you might want to try
+
+<!-- Cut to screen share -->
 * 'How might we...' docs
 * `just`: docs as code you'll keep updated
 * Tech radar
@@ -91,11 +97,12 @@ but leave the garage door up
 
 ---
 # Links
+[GitHub: andyn-ff/adcx-gather-2025](https://github.com/andyn-ff/adcx-gather-2025)
 
 - [Robin Sloane / Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
-- Cult of Done Maniefsto
+- [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 - [Clare Sudbery: Let's stop making each other feel stupid](https://insimpleterms.blog/lets-stop-making-each-other-feel-stupid)
 - [`just` command runner](https://just.systems)
-- Tech radar talk at Lead Dev 2024
-- Thoughtworks tech radar
-- AOE's tech radar tool
+- [Tech radar talk at LeadDev 2024: Andra Blaj](https://leaddev.com/technical-direction/how-to-use-technology-radars-to-make-transparent-tech-decisions)
+- [Thoughtworks tech radar](https://www.thoughtworks.com/radar/faq)
+- [AOE's tech radar tool](https://github.com/AOEpeople/aoe_technology_radar)
